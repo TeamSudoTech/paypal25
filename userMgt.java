@@ -1,6 +1,4 @@
-Martins
-John
-Cars
+iCars
 Houses
 Laptops
 Phones
