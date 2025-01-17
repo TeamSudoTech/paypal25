@@ -6,3 +6,4 @@ Laptops
 Phones
 Projectors
 Managers
+Version
