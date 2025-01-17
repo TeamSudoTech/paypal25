@@ -7,3 +7,4 @@ Phones
 Projectors
 Managers
 Version
+lessons
